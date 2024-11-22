@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build-kernel-vscode",
+            "type": "shell",
+            "command": "make build-kernel-vscode",
+            "problemMatcher": []
+        }
+    ]
+}
